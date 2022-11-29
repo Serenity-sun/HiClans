@@ -1,0 +1,5 @@
+name: CloudWorker
+main: Cloud\CloudPlugin
+version: 2
+api: 4.0.0
+author: Serenity-Sun

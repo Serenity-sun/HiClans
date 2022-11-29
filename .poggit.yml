@@ -1,0 +1,11 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Serenity-sun/CloudWorker
+build-by-default: true
+branches:
+- master
+projects:
+  CloudWorker:
+    path: ""
+    libs:
+      - src: Vecnavium/FormsUI/libFormsUI
+        version: ^2.0.0
+...
