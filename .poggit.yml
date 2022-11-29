@@ -4,7 +4,6 @@ branches:
 - master
 projects:
   CloudWorker:
-    path: ""
     libs:
       - src: Vecnavium/FormsUI/libFormsUI
         version: ^2.0.0
