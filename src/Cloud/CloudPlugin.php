@@ -13,10 +13,5 @@ class CloudPlugin extends PluginBase {
 	 */
     protected function onEnable(): void
     {
-		$form = new CustomForm(function (Player $player, int $data = null) {
-			$player->sendMessage("example");
-		});
-
-		$form->setTitle("example");
     }
 }
