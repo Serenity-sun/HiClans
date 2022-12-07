@@ -1,5 +1,12 @@
-name: CloudWorker
-main: Cloud\CloudPlugin
+name: HiClans
+main: Serenity\ClanPlugin
 version: 2
 api: 4.0.0
 author: Serenity-Sun
+commands:
+  clan:
+    description: open clan form
+    permission: clan.Command
+permissions:
+  clan.command:
+    default: op
