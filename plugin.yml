@@ -1,8 +1,8 @@
 name: HiClans
-main: Serenity\ClanPlugin
+main: serenity\ClanPlugin
 version: 2
 api: 4.0.0
-author: Serenity-Sun
+author: serenity-Sun
 commands:
   clan:
     description: open clan form
