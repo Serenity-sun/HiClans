@@ -1,6 +1,6 @@
 <?php
 
-namespace Serenity;
+namespace serenity;
 
 use pocketmine\plugin\PluginBase;
 
