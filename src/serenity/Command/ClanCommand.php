@@ -1,6 +1,6 @@
 <?php
 
-namespace Serenity\Command;
+namespace serenity\Command;
 
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
