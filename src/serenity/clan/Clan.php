@@ -4,5 +4,4 @@ namespace serenity\clan;
 
 class Clan
 {
-
 }
